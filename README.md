@@ -7,3 +7,7 @@ Certificate : https://s3-us-west-2.amazonaws.com/udacity-printer/production/cert
 
 2-Covid-19 Analysis : 
 using SQL to do some Data Exploration. then visualize the data in Tableau.
+
+3-Udacity Data Analyst Nano Dgree(FWD):
+In this Nanodegree Program we're using Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions.
+
